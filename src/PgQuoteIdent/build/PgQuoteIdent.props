@@ -1,0 +1,7 @@
+<Project>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)../contentFiles/cs/any/PgQuoteIdent/PgQuoteIdentifier.cs"
+             Link="PgQuoteIdent/PgQuoteIdentifier.cs"
+             Visible="false"/>
+  </ItemGroup>
+</Project>

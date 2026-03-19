@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PgQuoteIdent/PgQuoteIdent.csproj"/>
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PgQuoteIdent.Tests/PgQuoteIdent.Tests.csproj"/>
+  </Folder>
+</Solution>
