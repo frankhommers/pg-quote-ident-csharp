@@ -7,7 +7,7 @@
 
     <!-- Package metadata -->
     <PackageId>PgQuoteIdent</PackageId>
-    <Version>18.0.0</Version>
+    <Version>19.0.0</Version>
     <Authors>Frank Hommers</Authors>
     <Description>A faithful C# port of PostgreSQL's quote_identifier() function from ruleutils.c. Quotes identifiers only when needed, matching PostgreSQL's exact behavior including keyword detection. Distributed as a source-only package.</Description>
     <PackageTags>postgresql;postgres;quote;identifier;sql;quoting</PackageTags>

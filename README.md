@@ -63,10 +63,10 @@ This package follows **PostgreSQL-aligned versioning**:
 - **Minor/Patch** = own changes (bug fixes, improvements)
 
 For example:
-- `18.0.0` — initial release based on PostgreSQL 18 keyword list
-- `18.0.1` — bug fix in C# code, same keyword list
-- `18.1.0` — new feature, same keyword list
-- `19.0.0` — updated keyword list for PostgreSQL 19
+- `19.0.0` — initial release based on PostgreSQL 19 (master) keyword list
+- `19.0.1` — bug fix in C# code, same keyword list
+- `19.1.0` — new feature, same keyword list
+- `20.0.0` — updated keyword list for PostgreSQL 20
 
 ## License
 
