@@ -13,7 +13,7 @@
     <PackageTags>postgresql;postgres;quote;identifier;sql;quoting</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/frankhommers/pg-quote-ident-dotnet</RepositoryUrl>
+    <RepositoryUrl>https://github.com/frankhommers/pg-quote-ident-csharp</RepositoryUrl>
 
     <!-- Source-only package configuration -->
     <IncludeBuildOutput>false</IncludeBuildOutput>
